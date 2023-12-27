@@ -1,0 +1,10 @@
+C:\Users\79194\source\repos\tcpserver\tcpserver\bin\Debug\tcpserver.exe.config
+C:\Users\79194\source\repos\tcpserver\tcpserver\bin\Debug\tcpserver.exe
+C:\Users\79194\source\repos\tcpserver\tcpserver\bin\Debug\tcpserver.pdb
+C:\Users\79194\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.csproj.AssemblyReference.cache
+C:\Users\79194\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.csproj.SuggestedBindingRedirects.cache
+C:\Users\79194\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.csproj.CoreCompileInputs.cache
+C:\Users\79194\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.exe
+C:\Users\79194\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.pdb
+C:\Users\79194\source\repos\tcpserver\tcpserver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\79194\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.csproj.CopyComplete
